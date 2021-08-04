@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://mugglor:03112000@postdb.7tksi.mongodb.net/PostDB?retryWrites=true&w=majority"
+}
