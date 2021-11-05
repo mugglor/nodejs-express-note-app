@@ -11,7 +11,7 @@ const connectDB = async () => {
       useFindAndModify: false,
     });
 
-    console.log("ket noi thanh cong hehe");
+    console.log("Connected hehe");
   } catch (error) {
     console.log(error.message);
     process.exit(1);
